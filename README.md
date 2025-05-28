@@ -12,26 +12,26 @@ A results-oriented **Principal Full Stack Engineer** with **9 years of experienc
 
 ### Skills
 
-**Programming Languages:** JavaScript, TypeScript, Ruby, PHP, Java
-**Frontend Development:** React, Angular, Next.js, Redux, MicroFrontends, HTML5, CSS3, SASS, LESS, jQuery, Bootstrap, Material UI, Tailwind CSS, Storybook, Responsive Design, Progressive Web Apps (PWA), Web Accessibility (WCAG)
-**Backend Development:** Node.js, Express.js, PHP (Laravel), Ruby on Rails (Active Record, Action Cable, Rake, Bundler), Sails.js, GraphQL, Apollo, RESTful APIs, Socket.io, Microservice Architecture, MVC
-**Mobile Development:** React Native (Expo, Redux, Navigation, UI Libraries), Ionic, Apache Cordova
-**Databases:** MongoDB, MySQL, PostgreSQL, DynamoDB, Redis
-**Cloud & DevOps:** AWS (EC2, ECS, Lambda, S3, EventBridge, CloudFront, API Gateway, Cognito, AppSync, Amplify, CloudFormation), Docker, NGINX, CI/CD, Supabase, Firebase, Heroku, Vercel, Netlify, Firebase Hosting
-**Architectures & Patterns:** Microservices, Monolithic, Serverless, Event-Driven Architecture, Domain-Driven Design (DDD), Clean Architecture, Web Application Architectures
-**APIs & Integration:** RESTful APIs, GraphQL, Apollo Client, WebSockets, Third-Party API Integration
-**State Management:** Redux, MobX, Context API, Zustand
-**Testing & Quality Assurance:** Jest, Cypress, Puppeteer, Mocha, Chai, Enzyme, Software Testing Strategies, TDD, BDD
-**Build Tools & Task Runners:** Webpack, Babel, Gulp, Grunt
-**Version Control & Collaboration:** Git, GitHub, GitLab, Bitbucket, Jira, Confluence
-**Authentication & Authorization:** OAuth, JWT, AWS Cognito, Firebase Authentication
-**Security:** OWASP Best Practices, Secure Coding Practices, Data Encryption
-**Performance Optimization:** Code Splitting, Lazy Loading, Caching Strategies, Web Vitals
-**Search & Data Visualization:** Elasticsearch, D3.js, Geospatial Search
-**AI & Machine Learning:** AI Chatbot RAG, Langchain, Pinecone (Vector Database)
-**E-commerce & Payments:** Shopify, Stripe, PayPal
-**Methodologies & Tools:** Agile, Scrum, Kanban, Swagger, Sentry, Splunk, Amplitude, WordPress
-**Soft Skills:** Leadership, Team Management, Client Communication, Problem Solving, Time Management, Adaptability
+- **Programming Languages:** JavaScript, TypeScript, Ruby, PHP, Java
+- **Frontend Development:** React, Angular, Next.js, Redux, MicroFrontends, HTML5, CSS3, SASS, LESS, jQuery, Bootstrap, Material UI, Tailwind CSS, Storybook, Responsive Design, Progressive Web Apps (PWA), Web Accessibility (WCAG)
+- **Backend Development:** Node.js, Express.js, PHP (Laravel), Ruby on Rails (Active Record, Action Cable, Rake, Bundler), Sails.js, GraphQL, Apollo, RESTful APIs, Socket.io, Microservice Architecture, MVC
+- **Mobile Development:** React Native (Expo, Redux, Navigation, UI Libraries), Ionic, Apache Cordova
+- **Databases:** MongoDB, MySQL, PostgreSQL, DynamoDB, Redis
+- **Cloud & DevOps:** AWS (EC2, ECS, Lambda, S3, EventBridge, CloudFront, API Gateway, Cognito, AppSync, Amplify, CloudFormation), Docker, NGINX, CI/CD, Supabase, Firebase, Heroku, Vercel, Netlify, Firebase Hosting
+- **Architectures & Patterns:** Microservices, Monolithic, Serverless, Event-Driven Architecture, Domain-Driven Design (DDD), Clean Architecture, Web Application Architectures
+- **APIs & Integration:** RESTful APIs, GraphQL, Apollo Client, WebSockets, Third-Party API Integration
+- **State Management:** Redux, MobX, Context API, Zustand
+- **Testing & Quality Assurance:** Jest, Cypress, Puppeteer, Mocha, Chai, Enzyme, Software Testing Strategies, TDD, BDD
+- **Build Tools & Task Runners:** Webpack, Babel, Gulp, Grunt
+- **Version Control & Collaboration:** Git, GitHub, GitLab, Bitbucket, Jira, Confluence
+- **Authentication & Authorization:** OAuth, JWT, AWS Cognito, Firebase Authentication
+- **Security:** OWASP Best Practices, Secure Coding Practices, Data Encryption
+- **Performance Optimization:** Code Splitting, Lazy Loading, Caching Strategies, Web Vitals
+- **Search & Data Visualization:** Elasticsearch, D3.js, Geospatial Search
+- **AI & Machine Learning:** AI Chatbot RAG, Langchain, Pinecone (Vector Database)
+- **E-commerce & Payments:** Shopify, Stripe, PayPal
+- **Methodologies & Tools:** Agile, Scrum, Kanban, Swagger, Sentry, Splunk, Amplitude, WordPress
+- **Soft Skills:** Leadership, Team Management, Client Communication, Problem Solving, Time Management, Adaptability
 
 ---
 
